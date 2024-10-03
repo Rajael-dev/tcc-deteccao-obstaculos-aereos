@@ -22,5 +22,4 @@ Este repositório contém o código-fonte fd projeto de TCC, que visa desenvolve
 - 1x - Placa de Prototipação
 
 ### Diagrama do circuito:
-![circuito_tcc](https://github.com/user-attachments/assets/73ef21e6-e061-45ad-8464-080d4ca848f7)
-
+![circuito-tcc-1](https://github.com/user-attachments/assets/fc140b24-e4f3-427c-be30-ae1b2507c2ac)
