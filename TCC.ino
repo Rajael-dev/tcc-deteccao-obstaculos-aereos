@@ -3,8 +3,9 @@
 #include "Adafruit_VL53L0X.h"
 
 // Configurações do Wi-Fi e MQTT
-const char* ssid = "POCO X3 NFC";
-const char* password = "mozar123";
+// insira aqui o nome e senha da sua rede
+const char* ssid = "";
+const char* password = "";
 const char* mqtt_server = "broker.emqx.io";
 
 WiFiClient espClient;
